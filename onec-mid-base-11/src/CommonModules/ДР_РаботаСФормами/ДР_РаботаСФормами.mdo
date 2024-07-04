@@ -3,7 +3,8 @@
   <name>ДР_РаботаСФормами</name>
   <synonym>
     <key>ru</key>
-    <value>Д р работа с формами</value>
+    <value>Работа с формами</value>
   </synonym>
   <server>true</server>
+  <externalConnection>true</externalConnection>
 </mdclass:CommonModule>
